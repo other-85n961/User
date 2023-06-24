@@ -7,6 +7,7 @@
 	[
 		"Compare Side-By-Side",
 		"MarkdownEditing",
+		"MarkdownLivePreview",
 		"MarkdownPreview",
 		"Package Control",
 	],
