@@ -6,4 +6,5 @@
 	"hot_exit": "disabled",
 	"draw_white_space": ["all"],
 	"open_files_in_new_window": false,
+	"translate_tabs_to_spaces": true
 }
